@@ -5,6 +5,6 @@ class ChasiScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: const Center(child: Text('Hola mundo')));
+    return Scaffold(body: const Center(child: Text('Chasi')));
   }
 }
